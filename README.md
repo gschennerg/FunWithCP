@@ -1,2 +1,3 @@
 # FunWithCP
-A repository for the blog Fun With Constraint Programming
+A repository for the blog Fun With Constraint Programming (https://funwithcp.blogspot.com).
+
